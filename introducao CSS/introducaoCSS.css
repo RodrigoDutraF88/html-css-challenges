@@ -1,0 +1,42 @@
+body{
+    background-color: rgb(180, 30, 30);
+}
+h1{
+    color: red;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+    background-color: yellow;
+    font-weight: normal;
+
+}
+
+h2{
+    font-size: 50px;
+    font-style: italic;
+}
+h3{
+    text-transform: uppercase;
+    font-style: oblique
+
+}
+
+p {
+    text-indent: 50px;
+    text-align: left;
+    /* color: #0000ff;*/
+    font-variant: small-caps
+}
+
+a {
+    font-variant: none;
+}
+
+.destaque{
+    color:orange;
+
+
+}
+
+#title{
+    color:green
+}
